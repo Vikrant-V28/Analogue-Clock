@@ -26,6 +26,5 @@ The simple code to create beautiful `Analogue Clock` in light & dark using HTML,
 [Vikrant](https://github.com/thevkrant)
 
 
-![Screenshot (176)]()
 # Light Mode
 ![Screenshot (177)](https://user-images.githubusercontent.com/85709371/148986323-e165bcc4-4b88-4b3f-b462-80a8c1f2ea57.png)
