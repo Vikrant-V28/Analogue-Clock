@@ -19,7 +19,7 @@ The simple code to create beautiful `Analogue Clock` in light & dark using HTML,
     <a href="Outputs/output1.png"><img src="https://user-images.githubusercontent.com/85709371/148986273-a28592d3-fcf7-403b-9ffb-0f5a01f38b67.png" alt="output 1"></a>
   </p>
 </details>
-<details><summary><b>Dark Mode</b></summary>
+<details><summary><b>Light Mode</b></summary>
   <p align="center">
     <a href="Outputs/output2.png"><img src="https://user-images.githubusercontent.com/85709371/148986323-e165bcc4-4b88-4b3f-b462-80a8c1f2ea57.png" alt="output 2"></a>
   </p>
