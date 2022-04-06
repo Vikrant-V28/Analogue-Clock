@@ -29,7 +29,3 @@ The simple code to create beautiful `Analogue Clock` in light & dark using HTML,
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
-
-
-# Light Mode
-![Screenshot (177)]()
