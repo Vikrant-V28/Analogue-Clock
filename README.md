@@ -3,9 +3,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/85709371/160286209-622d2990-13e6-46a3-9877-2a0b73bb386d.png">
 </div>
 
-# Analogue Clock
+# Analog clock
 
-The simple code to create beautiful `Analogue Clock` in light & dark using HTML, CSS & JavaScript.
+The simple code to create beautiful `Analog clock` in light & dark using HTML, CSS & JavaScript.
 
 ### Prerequisites
 - HTML
