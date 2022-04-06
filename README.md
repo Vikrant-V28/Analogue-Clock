@@ -14,7 +14,7 @@ The simple code to create beautiful `Analogue Clock` in light & dark using HTML,
 - SCSS
 
 ### Output Screenshot
-<details><summary><b>Output</b></summary>
+<details><summary><b>Dark Mode</b></summary>
   <p align="center">
     <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148979982-8e8bf184-7c3c-4ef4-8185-e86b6212a9fa.png" alt="output"></a>
   </p>
