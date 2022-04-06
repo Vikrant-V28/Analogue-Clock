@@ -3,7 +3,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/85709371/160286209-622d2990-13e6-46a3-9877-2a0b73bb386d.png">
 </div>
 
-# Calculator-UI
+# Analogue Clock
 
 The simple code to create `Calculator-UI` using HTML, CSS & JavaScript.
 
@@ -26,7 +26,7 @@ The simple code to create `Calculator-UI` using HTML, CSS & JavaScript.
 [Vikrant](https://github.com/thevkrant)
 
 
-# Analogue Clock
+# 
 <!-- Visit <a href="https://vikrant-v28.github.io/Analogue-Clock/">Here</a> -->
 # Dark Mode
 ![Screenshot (176)](https://user-images.githubusercontent.com/85709371/148986273-a28592d3-fcf7-403b-9ffb-0f5a01f38b67.png)
